@@ -11,3 +11,7 @@ pandas.__version__
 ##---(Sat May 28 17:09:54 2016)---
 runfile('C:/Users/Alex Messina/Documents/GitHub/Fagaalu-Sediment-Flux/Code/SedFlux.py', wdir='C:/Users/Alex Messina/Documents/GitHub/Fagaalu-Sediment-Flux/Code')
 runfile('C:/Users/Alex Messina/Documents/GitHub/Fagaalu-Sediment-Flux/Code/SedFlux.py', wdir='C:/Users/Alex Messina/Documents/GitHub/Fagaalu-Sediment-Flux/Code')
+
+##---(Thu Jun 09 10:53:21 2016)---
+print 'helloworld'
+runfile('C:/Users/Alex Messina/Documents/GitHub/Fagaalu-Sediment-Flux/Code/SedFlux.py', wdir='C:/Users/Alex Messina/Documents/GitHub/Fagaalu-Sediment-Flux/Code')
