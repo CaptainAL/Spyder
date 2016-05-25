@@ -15,8 +15,3 @@ runfile('C:/Users/Alex Messina/Documents/GitHub/Fagaalu-Sediment-Flux/Code/SedFl
 ##---(Thu Jun 09 10:53:21 2016)---
 print 'helloworld'
 runfile('C:/Users/Alex Messina/Documents/GitHub/Fagaalu-Sediment-Flux/Code/SedFlux.py', wdir='C:/Users/Alex Messina/Documents/GitHub/Fagaalu-Sediment-Flux/Code')
-
-##---(Wed May 25 11:22:39 2016)---
-runfile('C:/Users/atm19/Documents/GitHub/Fagaalu-Sedimentation/Code/Load_SedPod_Tube_Data.py', wdir='C:/Users/atm19/Documents/GitHub/Fagaalu-Sedimentation/Code')
-import scipy
-from scipy.stats import spearmanr as spearman_r
