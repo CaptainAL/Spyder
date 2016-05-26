@@ -1,0 +1,5 @@
+rem *** Spyder Terminal History Log ***
+rem
+
+rem ---(Thu May 26 15:45:01 2016)---
+python spyder.exe -h
