@@ -33,7 +33,9 @@ crash = False
 current_version = 3.0.0dev
 windows_style = 'windowsvista'
 historylog_filename = u'C:\\Users\\Alex Messina\\Desktop\\WinPython-64bit-2.7.10.3\\settings\\.spyder\\history.log'
-window/state = None
+window/state = '000000ff00000000fd000000010000000000000f0000000783fc0200000001fc0000004b000007830000021c00fffffffc0100000004fb0000002400500072006f006a006500630074004500780070006c006f007200650072005f006400770000000000ffffffff000000a000fffffffb000000120045006400690074006f0072005f006400770100000000000009b8000000ed00fffffffb00000024004f00750074006c0069006e0065004500780070006c006f007200650072005f006400770000000000ffffffff000000c000fffffffc000009c000000540000001b700fffffffc0200000002fc0000004b0000030a0000010c01000022fa000000000200000008fb00000024004f0062006a0065006300740049006e00730070006500630074006f0072005f006400770100000000ffffffff0000005f00fffffffb00000026005600610072006900610062006c0065004500780070006c006f007200650072005f006400770100000000ffffffff000000e900fffffffb0000001a004f006e006c0069006e006500480065006c0070005f006400770000000000ffffffff0000005d00fffffffb00000016004500780070006c006f007200650072005f006400770100000000ffffffff000000d900fffffffb0000001c00460069006e00640049006e00460069006c00650073005f006400770000000000ffffffff0000014d00fffffffb0000001c0042007200650061006b0070006f0069006e00740073005f006400770000000000ffffffff000000b700fffffffb0000001600500072006f00660069006c00650072005f006400770000000000ffffffff0000011b00fffffffb0000001200500079006c0069006e0074005f006400770000000000ffffffff0000011b00fffffffc0000035d000004710000010801000022fa000000010200000004fb000000140043006f006e0073006f006c0065005f006400770000000000ffffffff000000b700fffffffb0000002400450078007400650072006e0061006c0043006f006e0073006f006c0065005f006400770100000000ffffffff000000e500fffffffb0000001a0048006900730074006f00720079004c006f0067005f006400770100000000ffffffff000000e500fffffffb0000002200490050007900740068006f006e0043006f006e0073006f006c0065005f006400770100000000ffffffff000000e500ffffff000000000000078300000004000000040000000800000008fc0000000100000002000000080000001800660069006c0065005f0074006f006f006c0062006100720100000000ffffffff0000000000000000000000180065006400690074005f0074006f006f006c0062006100720000000090ffffffff00000000000000000000001c007300650061007200630068005f0074006f006f006c0062006100720000000101ffffffff00000000000000000000001c0073006f0075007200630065005f0074006f006f006c00620061007200000001bcffffffff00000000000000000000001600720075006e005f0074006f006f006c0062006100720100000090ffffffff00000000000000000000001a00640065006200750067005f0074006f006f006c006200610072010000013fffffffff000000000000000000000018006d00610069006e005f0074006f006f006c006200610072010000020dffffffff0000000000000000000000300047006c006f00620061006c00200077006f0072006b0069006e00670020006400690072006500630074006f0072007901000002a9ffffffff0000000000000000'
+last_visible_toolbars = [u'file_toolbar', u'run_toolbar', u'debug_toolbar', u'main_toolbar', u'Global working directory']
+window/statusbar = True
 
 [quick_layouts]
 active = ['Matlab layout', 'Rstudio layout', 'Vertical split', 'Horizontal split']
@@ -42,6 +44,39 @@ names = ['Matlab layout', 'Rstudio layout', 'Vertical split', 'Horizontal split'
 order = ['Matlab layout', 'Rstudio layout', 'Vertical split', 'Horizontal split']
 layout_0/size = (1260, 740)
 layout_0/prefs_dialog_size = (745, 411)
+layout_0/is_maximized = True
+layout_0/is_fullscreen = False
+layout_0/position = (10, 10)
+layout_0/state = None
+layout_0/statusbar = True
+layout_1/size = (1260, 740)
+layout_1/prefs_dialog_size = (745, 411)
+layout_1/is_maximized = True
+layout_1/is_fullscreen = False
+layout_1/position = (10, 10)
+layout_1/state = None
+layout_1/statusbar = True
+layout_2/size = (1260, 740)
+layout_2/prefs_dialog_size = (745, 411)
+layout_2/is_maximized = True
+layout_2/is_fullscreen = False
+layout_2/position = (10, 10)
+layout_2/state = None
+layout_2/statusbar = True
+layout_3/size = (1260, 740)
+layout_3/prefs_dialog_size = (745, 411)
+layout_3/is_maximized = True
+layout_3/is_fullscreen = False
+layout_3/position = (10, 10)
+layout_3/state = None
+layout_3/statusbar = True
+layout_default/size = (1260, 740)
+layout_default/prefs_dialog_size = (745, 411)
+layout_default/is_maximized = True
+layout_default/is_fullscreen = False
+layout_default/position = (10, 10)
+layout_default/state = None
+layout_default/statusbar = True
 
 [editor_appearance]
 completion/size = (300, 180)
@@ -67,6 +102,7 @@ codecompletion/enter_key = True
 external_editor/path = SciTE
 font/bold = False
 codecompletion/case_sensitive = True
+first_time = True
 
 [console]
 pythonexecutable/default = True
@@ -99,6 +135,7 @@ codecompletion/case_sensitive = True
 object_inspector = True
 pythonexecutable = 'C:\\Users\\Alex Messina\\Desktop\\WinPython-64bit-2.7.10.3\\python-2.7.10.amd64\\python.exe'
 pythonstartup = C:\Users\Alex Messina\Desktop\WinPython-64bit-2.7.10.3\python-2.7.10.amd64\lib\site-packages\spyderlib\scientific_startup.py
+first_time = True
 
 [ipython_console]
 show_calltips = True
@@ -129,6 +166,7 @@ use_pager = False
 startup/use_run_file = False
 object_inspector = True
 pylab/autoload = False
+first_time = False
 
 [variable_explorer]
 truncate = True
@@ -142,6 +180,7 @@ excluded_names = ['nan', 'inf', 'infty', 'little_endian', 'colorbar_doc', 'typec
 remote_editing = False
 exclude_capitalized = False
 autorefresh/timeout = 2000
+first_time = True
 
 [editor]
 wrapflag = True
@@ -192,9 +231,12 @@ printer_header/font/size = 10
 codecompletion/case_sensitive = True
 occurence_highlighting/timeout = 1500
 color_scheme_name = 'Spyder'
-splitter_state = None
-recent_files = []
-filenames = []
+splitter_state = '000000ff0000000000000001000004a1010000000a0100000001'
+recent_files = [u'C:\\Users\\Alex Messina\\Desktop\\WinPython-64bit-2.7.10.3\\settings\\.spyder\\temp.py']
+filenames = [u'C:\\Users\\Alex Messina\\Desktop\\WinPython-64bit-2.7.10.3\\settings\\.spyder\\temp.py']
+first_time = True
+layout_settings = {'splitsettings': [(False, u'C:\\Users\\Alex Messina\\Desktop\\WinPython-64bit-2.7.10.3\\settings\\.spyder\\temp.py', [1])], 'hexstate': '000000ff0000000000000001000009b8000000000a0100000001', 'sizes': [2488]}
+windows_layout_settings = []
 
 [historylog]
 max_entries = 100
@@ -206,6 +248,7 @@ font/italic = False
 wrap = True
 font/family = ['Monospace', 'DejaVu Sans Mono', 'Consolas', 'Bitstream Vera Sans Mono', 'Andale Mono', 'Liberation Mono', 'Courier New', 'Courier', 'monospace', 'Fixed', 'Terminal']
 color_scheme_name = 'Spyder'
+first_time = False
 
 [inspector]
 max_history_entries = 20
@@ -226,18 +269,23 @@ rich_text/font/bold = False
 math = True
 color_scheme_name = 'Spyder'
 rich_mode = True
+first_time = True
 
 [onlinehelp]
 max_history_entries = 20
 enable = True
 zoom_factor = 0.8
+first_time = True
 
 [outline_explorer]
 show_comments = True
 show_fullpath = False
 enable = True
 show_all_files = False
-expanded_state = None
+expanded_state = {-2085799693: True}
+first_time = True
+scrollbar_position = (0, 0)
+visibility = False
 
 [project_explorer]
 show_all = False
@@ -247,6 +295,8 @@ show_hscrollbar = True
 font/family = None
 workspace = None
 expanded_state = None
+first_time = True
+scrollbar_position = (0, 0)
 
 [arrayeditor]
 font/bold = False
@@ -274,6 +324,7 @@ show_hidden = True
 wrap = True
 name_filters = ['*.py', '*.pyw', '*.ipy', '*.pyx', '*.pxd', '*.pxi', '*.c', '*.h', '*.cc', '*.cpp', '*.cxx', '*.h', '*.hh', '*.hpp', '*.hxx', '*.cl', '*.f', '*.for', '*.f77', '*.f90', '*.f95', '*.f2k', '*.pro', '*.m', '*.jl', '*.yaml', '*.yml', '*.patch', '*.diff', '*.rej', '*.bat', '*.cmd', '*.txt', '*.txt', '*.rst', '*.po', '*.pot', '*.nsi', '*.nsh', '*.scss', '*.css', '*.htm', '*.html', '*.xml', '*.js', '*.json', '*.ipynb', '*.enaml', '*.properties', '*.session', '*.ini', '*.inf', '*.reg', '*.cfg', '*.desktop', '*.gif', '*.npz', '*.mat', '*.pkl', '*.tif', '*.png', '*.txt', '*.jpg', '*.pickle', '*.npy', '*.h5', '*.csv', '*.json', '*.spydata', '*.png', '*.ico', '*.svg', 'README', 'INSTALL', 'LICENSE', 'CHANGELOG']
 font/family = None
+first_time = True
 
 [find_in_files]
 enable = True
@@ -290,6 +341,7 @@ include = ['\\.py$|\\.pyw$|\\.ipy$|\\.pyx$|\\.pxd$|\\.pxi$|\\.c$|\\.h$|\\.cc$|\\
 search_path = None
 include_idx = None
 exclude_idx = None
+first_time = True
 
 [workingdir]
 working_dir_adjusttocontents = False
@@ -515,4 +567,52 @@ monokai/unmatched_p = #bd6e76
 emacs/instance = ('#ffffff', False, True)
 spyder/background = #ffffff
 zenburn/sideareas = #3f3f3f
-emacs/cu
+emacs/currentcell = #1c1c2d
+emacs/builtin = ('#900090', False, False)
+monokai/currentline = #484848
+pydev/background = #ffffff
+emacs/currentline = #2b2b43
+emacs/number = ('#800000', False, False)
+monokai/normal = ('#ddddda', False, False)
+spyder/matched_p = #99ff99
+emacs/background = #000000
+spyder/comment = ('#adadad', False, True)
+scintilla/matched_p = #99ff99
+pydev/number = ('#800000', False, False)
+pydev/sideareas = #efefef
+spyder/currentcell = #fdfdde
+pydev/ctrlclick = #0000ff
+custom/background = u'#ffffff'
+custom/currentline = u'#f7ecf8'
+custom/currentcell = u'#fdfdde'
+custom/occurence = u'#ffff99'
+custom/ctrlclick = u'#0000ff'
+custom/sideareas = u'#efefef'
+custom/matched_p = u'#99ff99'
+custom/unmatched_p = u'#ff9999'
+custom/normal = ('#000000', False, False)
+custom/keyword = ('#0000ff', False, False)
+custom/builtin = ('#900090', False, False)
+custom/definition = ('#000000', True, False)
+custom/comment = ('#adadad', False, True)
+custom/string = ('#00aa00', False, False)
+custom/number = ('#800000', False, False)
+custom/instance = ('#924900', False, True)
+
+[run]
+breakpoints = {}
+
+[dicteditor_header]
+font/family = None
+
+[profiler]
+max_entries = 50
+first_time = False
+
+[pylint]
+max_entries = 50
+first_time = False
+
+[breakpoints]
+first_time = False
+
