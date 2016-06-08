@@ -1,6 +1,5 @@
-        print f
 # *** Spyder Python Console History Log ***
-        raw = raw.ix[:,1:3]
+# *** Spyder Python Console History Log ***
         raw.columns  = ['Abs Pres, kPa','Temp, C']
         Barologger_raw_data = Barologger_raw_data.append(raw)
 
@@ -100,4 +99,11 @@ LBJ_Barologger_raw_data = LBJ_Barologger_raw_data.drop_duplicates(cols='index')
 LBJ_Barologger_raw_data = LBJ_Barologger_raw_data.reindex(pd.date_range(start2016,stop2016,freq='5Min'))
 LBJ_Barologger_raw_data 
 LBJ_Barologger_raw_data['Abs Pres, kPa'].plot()
+runfile('C:/Users/atm19/Google Drive/Siumu-Fagaalu-PT data process.py', wdir='C:/Users/atm19/Google Drive')
+
+##---(Tue Jun 07 14:37:36 2016)---
+FOREST_Barologger_raw_data 
+runfile('C:/Users/atm19/Google Drive/Siumu-Fagaalu-PT data process.py', wdir='C:/Users/atm19/Google Drive')
+
+##---(Wed Jun 08 09:31:02 2016)---
 runfile('C:/Users/atm19/Google Drive/Siumu-Fagaalu-PT data process.py', wdir='C:/Users/atm19/Google Drive')
