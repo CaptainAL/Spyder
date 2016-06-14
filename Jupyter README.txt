@@ -12,3 +12,9 @@ change directory in Spyder>settings>.jupyter>jupyter_notebook_config.py
 >>
 # The directory to use for notebooks and kernels.
 c.NotebookApp.notebook_dir = u'C:/Users/atm19/Documents/GitHub' <<<<CHANGE PATH HERE
+
+
+to add jupyter to your PATH envrionmental variable:
+http://pythoncentral.io/add-python-to-path-python-is-not-recognized-as-an-internal-or-external-command/
+
+to add R kernel you have to run R from the WinPython Command Prompt!

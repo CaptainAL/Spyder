@@ -1,0 +1,5 @@
+{
+  "argv": ["C:/PROGRA~1/R/R-33~1.0/bin/x64/R", "--slave", "-e", "IRkernel::main()", "--args", "{connection_file}"],
+  "display_name": "R",
+  "language": "R"
+}
