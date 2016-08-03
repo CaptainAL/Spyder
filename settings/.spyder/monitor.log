@@ -1,0 +1,21 @@
+======================================
+Logging time: Mon Jul 04 12:52:21 2016
+======================================
+
+Context
+-------
+
+__get_dir__(''FOREST_Table1')
+
+Traceback
+---------
+
+Traceback (most recent call last):
+  File "C:\Users\atm19\Documents\GitHub\Spyder\python-2.7.10.amd64\lib\site-packages\spyderlib\widgets\externalshell\monitor.py", line 553, in run
+    result = eval(command, glbs, lcls)
+  File "<string>", line 1
+    __get_dir__(''FOREST_Table1')
+                              ^
+SyntaxError: invalid syntax
+
+
