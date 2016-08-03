@@ -1,100 +1,4 @@
-print deployment
-DepInfo
-runfile('C:/Users/atm19/Documents/GitHub/Faga-alu-Bay-water-circulation/Code/PlotDrifters_Gridcell_ResidenceTime.py', wdir='C:/Users/atm19/Documents/GitHub/Faga-alu-Bay-water-circulation/Code')
-
-##---(Tue Jul 19 13:29:24 2016)---
-deployment
-deployments
-runfile('C:/Users/atm19/Documents/GitHub/Faga-alu-Bay-water-circulation/Code/PlotDrifters_Gridcell_ResidenceTime.py', wdir='C:/Users/atm19/Documents/GitHub/Faga-alu-Bay-water-circulation/Code')
-grid.shapes()
-
-##---(Tue Jul 19 13:39:14 2016)---
-runfile('C:/Users/atm19/Documents/GitHub/Faga-alu-Bay-water-circulation/Code/PlotDrifters_Gridcell_ResidenceTime.py', wdir='C:/Users/atm19/Documents/GitHub/Faga-alu-Bay-water-circulation/Code')
-GISdir
-runfile('C:/Users/atm19/Documents/GitHub/Faga-alu-Bay-water-circulation/Code/PlotDrifters_Gridcell_ResidenceTime.py', wdir='C:/Users/atm19/Documents/GitHub/Faga-alu-Bay-water-circulation/Code')
-grid
-grid.Fields
-grid.fields
-grid.shapes[0].name
-grid.shapes[0].fields
-grid.shapes[0]
-grid.shapes()[0]
-grid.shapes()[0].fields
-grid.shapes()[0].info
-grid.shapes()[0].points
-grid.shapes()[0].points[0][0]
-runfile('C:/Users/atm19/Documents/GitHub/Faga-alu-Bay-water-circulation/Code/PlotDrifters_Gridcell_ResidenceTime.py', wdir='C:/Users/atm19/Documents/GitHub/Faga-alu-Bay-water-circulation/Code')
-geomorph_zone_nums = {1:'North reef flat',2:'Ocean',3:'South reef flat',4:'Channel',5:'Backreef pools'}
-geomorph_zone_nums[1]
-runfile('C:/Users/atm19/Documents/GitHub/Faga-alu-Bay-water-circulation/Code/PlotDrifters_Gridcell_ResidenceTime.py', wdir='C:/Users/atm19/Documents/GitHub/Faga-alu-Bay-water-circulation/Code')
-grid.shapes()
-grid.shapes()[0].points
-grid.shapes()[0].points[::]
-grid.shapes()[0].points[::0]
-grid.shapes()[0].points[::1]
-grid.shapes()[0].points[::2]
-grid.shapes()[0].points[0]
-grid.shapes()[0].points[::]
-grid.shapes()[0].points[::3]
-grid.shapes()[0].centroid
-grid.shapes()[0].centroid()
-grid.shapes()[0].points[]
-grid.shapes()[0].points[:,::1]
-grid.shapes()[0].points[:,]
-grid.shapes()[0].points[:]
-grid.shapes()[0].points[:][::1]
-grid.shapes()[0].points[:][0::2]
-grid.shapes()[0].points[:][0::]
-grid.shapes()[0].points[0::]
-grid.shapes()[0].points[0:-1]
-grid.shapes()[0].points[0:-1][0::]
-grid.shapes()[0].points[:,0]
-grid.shapes()[0].points[:,:]
-grid.shapes()[0].points[0][:,:]
-grid.shapes()[0].points[:,:]
-grid.shapes()[0].points
-grid.shapes()[0].points[:,0]
-grid.shapes()[0].points[1,0]
-grid.shapes()[0].points[1:0]
-grid.shapes()[0].points[0,1]
-grid.shapes()[0].points[0:1]
-grid.shapes()[0].points[0::1]
-grid.shapes()[0].points[[0::1]]
-grid.shapes()[0].points[[0:1]]
-grid.shapes()[0].points[[0]]
-len(grid.shapes()[0].points)
-array(grid.shapes()[0].points)
-array(grid.shapes()[0].points)[:,1]
-array(grid.shapes()[0].points)[:,1].mean()
-array(grid.shapes()[0].points)[:,0].mean()
-runfile('C:/Users/atm19/Documents/GitHub/Faga-alu-Bay-water-circulation/Code/PlotDrifters_Gridcell_ResidenceTime.py', wdir='C:/Users/atm19/Documents/GitHub/Faga-alu-Bay-water-circulation/Code')
-arra
-array
-Map=Drifter_Map(dirs,MapExtent='Local',showLatLonGrid=False,showBackgroundImage=True,showWatershed=False,showBinGrid=True,labelBinGrid=True,showLaunchZones=False)  
-from DrifterDataAnalysisTools import Drifter_Map, speed_and_bearing, speed_and_bearing_to_file, my_parser
-from DrifterDataAnalysisTools import point_in_polygon, point_in_gridcell, point_in_launchzone
-from DrifterDataAnalysisTools import plot_arrows_by_speed, plot_arrows_by_gridcell, plot_arrows_by_launchzone
-from DrifterDataAnalysisTools import label_grid_cells, label_launch_zones
-Map=Drifter_Map(dirs,MapExtent='Local',showLatLonGrid=False,showBackgroundImage=True,showWatershed=False,showBinGrid=True,labelBinGrid=True,showLaunchZones=False)  
-runfile('C:/Users/atm19/Documents/GitHub/Faga-alu-Bay-water-circulation/Code/PlotDrifters_Gridcell_ResidenceTime.py', wdir='C:/Users/atm19/Documents/GitHub/Faga-alu-Bay-water-circulation/Code')
-Grid_min, Grid_max, Grid_std = gridpoints['speed m/s'].min(), gridpoints['speed m/s'].max(), gridpoints['speed m/s'].std()
-Grid_min, Grid_max, Grid_std
-runfile('C:/Users/atm19/Documents/GitHub/Faga-alu-Bay-water-circulation/Code/PlotDrifters_Gridcell_ResidenceTime.py', wdir='C:/Users/atm19/Documents/GitHub/Faga-alu-Bay-water-circulation/Code')
-plt.close('all')
-runfile('C:/Users/atm19/Documents/GitHub/Faga-alu-Bay-water-circulation/Code/PlotDrifters_Gridcell_ResidenceTime.py', wdir='C:/Users/atm19/Documents/GitHub/Faga-alu-Bay-water-circulation/Code')
-print str(geomorph_zone_nums[gridcount])+' Mean: '+'%.2f'%GridMean_speed+'Min: '+'%.2f'%Grid_min+' Max: '+'%.2f'%Grid_max+' STD: '+'%.2f'%Grid_std
-runfile('C:/Users/atm19/Documents/GitHub/Faga-alu-Bay-water-circulation/Code/PlotDrifters_Gridcell_ResidenceTime.py', wdir='C:/Users/atm19/Documents/GitHub/Faga-alu-Bay-water-circulation/Code')
-
-##---(Wed Jul 20 13:13:21 2016)---
-gridpoints
-gridpoints[gridpoints['speed m/s'] < 0.01]
-runfile('C:/Users/atm19/Documents/GitHub/Fagaalu-Sediment-Flux/Code/Load_Sediment_Data.py', wdir='C:/Users/atm19/Documents/GitHub/Fagaalu-Sediment-Flux/Code')
-def loadSSC(SSCXL,sheet='ALL_MASTER',round_to_5=False,round_to_15=False):
-    print 'loading SSC...'
-    def my_parser(x,y):
-        try:
-            y = str(int(y))
-            while len(y)!=4:
+# *** Spyder Python Console History Log ***
                 y = '0'+y
             hour=y[:-2]
             minute=y[-2:]
@@ -140,9 +44,7 @@ SSC[SSC['Location']=='DT']
 runfile('C:/Users/atm19/Documents/GitHub/Fagaalu-Sedimentation/Code/Load_SedPod_Tube_Data.py', wdir='C:/Users/atm19/Documents/GitHub/Fagaalu-Sedimentation/Code')
 SedPods
 SedTubes[SedTubes == 'T1A']
-SedTubes[SedTubes.ix['T1A']
-
-'
+SedTubes[SedTubes.ix['T1A']'
 SedTubes.ix['T1A']
 SedTubes.ix['T1A']['Fine Carb(gm2d)']
 SedTubes.columns
@@ -167,9 +69,7 @@ SedTubes['Month'].drop_duplicates()
 north_tubes = SedTubes.ix[north]
 north_tubes
 SedTubes['Month'].drop_duplicates()
-north_tubes[north_tubes['Month'].isin(['Oct_2014','Nov_2014','Dec_2014','Jan_2015','Feb_2015','Mar_2015'])
-
-]
+north_tubes[north_tubes['Month'].isin(['Oct_2014','Nov_2014','Dec_2014','Jan_2015','Feb_2015','Mar_2015'])]
 north_tubes[north_tubes['Month'].isin(['Oct_2014','Nov_2014','Dec_2014','Jan_2015','Feb_2015','Mar_2015'])]['fine(%terr)'].mean()
 north_tubes.columns
 north_tubes[north_tubes['Month'].isin(['Oct_2014','Nov_2014','Dec_2014','Jan_2015','Feb_2015','Mar_2015'])]['Fine(%carb)'].mean()
@@ -201,3 +101,7 @@ north_tubes[north_tubes['Month'].isin(['Oct_2014','Nov_2014','Dec_2014','Jan_201
 north_tubes[north_tubes['Month'].isin(['Oct_2014','Nov_2014','Dec_2014','Jan_2015','Feb_2015','Mar_2015'])]['%fine'].mean()
 runfile('C:/Users/atm19/Documents/GitHub/Faga-alu-Bay-water-circulation/Code/PlotDrifters_Gridcell_ResidenceTime.py', wdir='C:/Users/atm19/Documents/GitHub/Faga-alu-Bay-water-circulation/Code')
 __version__
+
+##---(Wed Aug 03 13:08:26 2016)---
+runfile('C:/Users/atm19/Documents/GitHub/Fagaalu-Sedimentation/Code/Plot_timeseries_terrig_v_P_and_SSY.py', wdir='C:/Users/atm19/Documents/GitHub/Fagaalu-Sedimentation/Code')
+runfile('C:/Users/atm19/Documents/GitHub/Fagaalu_monitoring/Fagaalu_Monitoring_2016/Code/Fagaalu-PT data process.py', wdir='C:/Users/atm19/Documents/GitHub/Fagaalu_monitoring/Fagaalu_Monitoring_2016/Code')
