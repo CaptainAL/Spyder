@@ -1,5 +1,5 @@
 # *** Spyder Python Console History Log ***
-                y = '0'+y
+# *** Spyder Python Console History Log ***
             hour=y[:-2]
             minute=y[-2:]
             time=dt.time(int(hour),int(minute))
